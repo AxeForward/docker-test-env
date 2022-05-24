@@ -1,0 +1,4 @@
+## Description
+底层的镜像是DockerHub上面的Python3.10版本。仓库镜像的构成是使用底层镜像的pip安装了requirements.txt上面的一些必要的包。
+仓库镜像的远程在Dockerhub上面的tongliao1universe/lr_demo下面，如果发现环境不够完善，一个简单的方式是在requirements.txt中添加包，
+之后在本地重新创建镜像即可。
