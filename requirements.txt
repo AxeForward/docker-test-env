@@ -6,4 +6,5 @@ statsmodels
 matplotlib
 scipy
 notebook
+openpyxl
 
